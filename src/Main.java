@@ -113,5 +113,4 @@ public class Main {
         System.out.println("Кристина теперь получает " + newKristinaSalaryPerMonth +
                 " рублей. Годовой доход вырос на " + deltaKristinaSalary + " рублей");
     }
-
 }
